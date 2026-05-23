@@ -19,11 +19,11 @@ I think it's difficult to summarise any human being in a select few words, but i
 
 ## Projects
 
-Throughout my PhD and postdoctoral work in theoretical physics, I have published several research articles in the field of quantum many-body physics.
+Throughout my PhD and postdoctoral work in theoretical physics, I have published several research articles in the field of quantum many-body physics. All of these projects have been numerical in nature, primarily coding in Python; as such, I have a great deal of numerical modelling and data analysis experience.
 
-My work spans topics such as quantum many-body scars, quantum black holes, and non-Gaussian quantum states in Rydberg atom arrays. A comprehensive list of my work can be found [here](/research/).
+My work spans topics such as quantum many-body scars, quantum black holes, and non-Gaussian quantum states in Rydberg atom arrays. A comprehensive list can be found [here](/research/).
 
-I am particularly interested in quantum thermalisation and quantum chaos. Other research interests include quantum computing, quantum information science, and topological error correction, as well as applications of machine learning to quantum many-body systems. Incase you're interested, there's also a big list of more interests in my academic [CV](/cv/).
+I am particularly interested in quantum thermalisation and quantum chaos. Other research interests include quantum computing, quantum information science, and topological error correction, as well as applications of machine learning to quantum many-body systems. There's also a big list of more interests in my academic [CV](/cv/).
 
 
 ## Hey look, it's me! 
