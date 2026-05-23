@@ -11,7 +11,7 @@ You can download my CVs below.
 
 ## General CV
 
-Focused on general skills, teaching/work, and general professional experience.
+Focused on general skills, teaching/work, and overall professional experience.
 
 [Download General CV](/assets/cv/general-cv.pdf)
 
