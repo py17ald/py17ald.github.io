@@ -3,9 +3,6 @@ layout: home
 title: Introduction
 ---
 
-
-# Aiden Daniel
-
 Hey, my name is Aiden.
 
 Welcome to my own little quadrant of the internet, where I aim to tell you a little bit about myself.
