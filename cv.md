@@ -15,7 +15,7 @@ You can download my CVs below.
 
 Focused on general skills, teaching/work, and overall professional experience.
 
-[Download General CV](/assets/cv/general-cv.pdf)
+[Download General CV](/assets/general-cv.pdf)
 
 ---
 
@@ -25,4 +25,4 @@ Focused on general skills, teaching/work, and overall professional experience.
 
 More directly focused on research, publications, and academic experience.
 
-[Download Academic CV](/assets/cv/academic-cv.pdf)
+[Download Academic CV](/assets/academic-cv.pdf)
