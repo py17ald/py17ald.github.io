@@ -22,7 +22,7 @@ Aiden Luke Daniel, 2025
 
 # Research Publications
 
-Below is a list of my published work.
+Below is a list of my published work. Or, if you're a fan of metrics and such (not the fun distance kind in topology or general relativity), here is my [Google Scholar page](https://scholar.google.com/citations?user=5yYBYkMAAAAJ&hl=en).
 
 ---
 
