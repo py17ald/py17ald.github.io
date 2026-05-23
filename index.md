@@ -2,7 +2,7 @@
 
 Hey, my name is Aiden.
 
-Welcome my own little quadrant of the internet where I aim to tell you a little bit about myself.
+Welcome to my own little quadrant of the internet, where I aim to tell you a little bit about myself.
 
 ## About Me
 I think it's difficult to summarise any human being in a select few words, but if I had to give myself a few keywords, I'd choose:
