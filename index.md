@@ -19,7 +19,10 @@ I think it's difficult to summarise any human being in a select few words, but i
 Throughout my PhD and time as a postdoctoral researcher in theoretical physics, I have published several research articles. The vast majority of my research lies in the field of quantum many-body physics; in particular, I find great fascination in quantum thermalisation. A few of my other research interests include quantum computing, quantum information science, and topological error correction (and how machine learning can be applied to this).
 To name a few topics, my research includes studies into quantum many-body scars, quantum black holes, non-Gaussian quantum states on Rydberg atom arrays, among other things. Find a link to my articles [here](/research/). 
 
-#Me! 
-Here's a few pictures of me in Norway, at my graduation, and in Japan - all photographed my wonderful partner (for I am undoubtably a shoddy photographer). Psychologically, apparently, this will help you feel like you know me better.
+## Me! 
 
 ![Profile Picture](/assets/me.png)
+
+Here's a few pictures of me in Norway, at my graduation, and in Japan - all photographed my wonderful partner (for I am undoubtably a shoddy photographer). Psychologically, apparently, this will help you feel like you know me better.
+
+
