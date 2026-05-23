@@ -28,4 +28,6 @@ To name a few topics, my research includes studies into quantum many-body scars,
 
 Here's a few pictures of me in Norway, at my graduation, and in Japan - courtesy of my wonderful partner (for I am undoubtably a shoddy photographer). Psychologically, apparently, this will help you feel like you know me better.
 
+Also my apologies to those people in the background in the _extremely_ unlikely event you ever see this. Do you ever think about how many photos we might be in the background of? Could be on someone's fireplace.
+
 
