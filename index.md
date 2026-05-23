@@ -1,3 +1,9 @@
+---
+layout: home
+title: Introduction
+---
+
+
 # Aiden Daniel
 
 Hey, my name is Aiden.
