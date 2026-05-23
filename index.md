@@ -15,12 +15,16 @@ I think it's difficult to summarise any human being in a select few words, but i
 - Cat lover (self explanitory)
 - Worldbuilder, data analyst, and Python and C++ developer
 - Frequent Traveller (Norway, Sweden, USA, Japan)
-- Voice actor (we all have that one crazy dream)
+- Voice actor (we all have that one far-fetched dream)
 
 ## Projects
 
-Throughout my PhD and time as a postdoctoral researcher in theoretical physics, I have published several research articles. The vast majority of my research lies in the field of quantum many-body physics; in particular, I find great fascination in quantum thermalisation. A few of my other research interests include quantum computing, quantum information science, and topological error correction (and how machine learning can be applied to this).
-To name a few topics, my research includes studies into quantum many-body scars, quantum black holes, non-Gaussian quantum states on Rydberg atom arrays, among other things. Find a link to my articles [here](/research/). 
+Throughout my PhD and postdoctoral work in theoretical physics, I have published several research articles in the field of quantum many-body physics.
+
+My work spans topics such as quantum many-body scars, quantum black holes, and non-Gaussian quantum states in Rydberg atom arrays. A comprehensive list of my work can be found [here](/research/).
+
+I am particularly interested in quantum thermalisation and quantum chaos. Other research interests include quantum computing, quantum information science, and topological error correction, as well as applications of machine learning to quantum many-body systems. Incase you're interested, there's also a big list of more interests in my academic [CV](/cv/).
+
 
 ## Hey look, it's me! 
 
