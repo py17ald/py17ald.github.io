@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Curriculum Vitae
 permalink: /cv/
 ---
 
@@ -10,6 +9,8 @@ You can download my CVs below.
 
 ---
 
+
+
 ## General CV
 
 Focused on general skills, teaching/work, and general professional experience.
@@ -17,6 +18,8 @@ Focused on general skills, teaching/work, and general professional experience.
 [Download General CV](/assets/cv/general-cv.pdf)
 
 ---
+
+
 
 ## Academic CV
 
