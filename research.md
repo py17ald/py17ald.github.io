@@ -16,7 +16,7 @@ For reference, I graduated with my BSc and MPhys in Theoretical Physics at the U
 
 **Controlling, evading, and maximising quantum thermalisation** 
 
-Aiden Luke Daniel, 2025
+Aiden Luke Daniel (2025)
 
 [Whiterose Website](https://etheses.whiterose.ac.uk/id/eprint/37219/1/AidenDaniel_PhDThesis.pdf)
 
@@ -30,37 +30,37 @@ Below is a list of my published work. Or, if you're a fan of metrics and such (n
 
 - **Ergodicity breaking meets criticality in a gauge-theory quantum simulator**
   
-  Ana Hudomal, Aiden Daniel, Tiago Santiago do Espirito Santo, Milan Kornjača, Tommaso Macrì, Jad C Halimeh, Guo-Xian Su, Antun Balaž, & Zlatko Papić, 2025
+  Ana Hudomal, Aiden Daniel, Tiago Santiago do Espirito Santo, Milan Kornjača, Tommaso Macrì, Jad C Halimeh, Guo-Xian Su, Antun Balaž, & Zlatko Papić (2025)
   
   [arXiv](https://arxiv.org/abs/2512.23794)
 
 - **Quantum teleportation between simulated binary black holes**
 
-  Aiden Daniel, Tanmay Bhore, Jiannis K Pachos, Chang Liu, & Andrew Hallam, 2025
+  Aiden Daniel, Tanmay Bhore, Jiannis K Pachos, Chang Liu, & Andrew Hallam (2025)
   
   [arXiv](https://arxiv.org/abs/2503.10761)
 
 - **Optimally scrambling chiral spin-chain with effective black hole geometry**
 
-  Aiden Daniel, Andrew Hallam, Matthew D. Horner, & Jiannis K. Pachos, 2025
+  Aiden Daniel, Andrew Hallam, Matthew D. Horner, & Jiannis K. Pachos (2025)
   
   [Scientific Reports](https://www.nature.com/articles/s41598-025-92760-9)
 
 - **Persistent Non-Gaussian Correlations in Out-of-Equilibrium Rydberg Atom Arrays**
 
-  Aydin Deger, Aiden Daniel, Zlatko Papić, & Jiannis K Pachos, 2023
+  Aydin Deger, Aiden Daniel, Zlatko Papić, & Jiannis K Pachos (2023)
   
   [PRX Quantum](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.4.040339)
 
 - **Bridging quantum criticality via many-body scarring**
 
-  Aiden Daniel, Andrew Hallam, Jean-Yves Desaules, Ana Hudomal, Guo-Xian Su, Jad C Halimeh, & Zlatko Papić, 2023
+  Aiden Daniel, Andrew Hallam, Jean-Yves Desaules, Ana Hudomal, Guo-Xian Su, Jad C Halimeh, & Zlatko Papić (2023)
   
   [Physical Review B](https://journals.aps.org/prb/pdf/10.1103/PhysRevB.107.235108)
 
 - **Hypergrid subgraphs and the origin of scarred quantum walks in many-body Hilbert space**
 
-  Jean-Yves Desaules, Kieran Bull, Aiden Daniel, & Zlatko Papić, 2022
+  Jean-Yves Desaules, Kieran Bull, Aiden Daniel, & Zlatko Papić (2022)
     
   [Physical Review B](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.105.245137)
 
