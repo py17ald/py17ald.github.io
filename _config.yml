@@ -1,3 +1,8 @@
 theme: minima
 title: My Personal Website
 description: You've somehow found my (WIP) website. Welcome!
+
+header_pages:
+  - index.md
+  - research.md
+  - cv.md
