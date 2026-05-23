@@ -26,6 +26,6 @@ To name a few topics, my research includes studies into quantum many-body scars,
 
 ![Profile Picture](/assets/me.png)
 
-Here's a few pictures of me in Norway, at my graduation, and in Japan - all photographed my wonderful partner (for I am undoubtably a shoddy photographer). Psychologically, apparently, this will help you feel like you know me better.
+Here's a few pictures of me in Norway, at my graduation, and in Japan - courtesy of my wonderful partner (for I am undoubtably a shoddy photographer). Psychologically, apparently, this will help you feel like you know me better.
 
 
