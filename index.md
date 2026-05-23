@@ -1,4 +1,4 @@
-# Aiden Luke Daniel
+# Aiden Daniel
 
 Hey, my name is Aiden.
 
@@ -11,9 +11,12 @@ I think it's difficult to summarise any human being in a select few words, but i
 - Nerd (big fan of Dungeons & Dragons, tabletop RPGs, video games, etc.) 
 - Cat lover (self explanitory)
 - Python and C++ developer
+- Frequent Traveller (Norway, Sweden, USA, Japan)
 - Voice actor (we all have that one crazy dream)
 
 ## Projects
 
 Throughout my PhD and time as a postdoctoral researcher in theoretical physics, I have published several research articles. The vast majority of my research lies in the field of quantum many-body physics; in particular, I find great fascination in quantum thermalisation. A few of my other research interests include quantum computing, quantum information science, and topological error correction (and how machine learning can be applied to this).
 To name a few topics, my research includes studies into quantum many-body scars, quantum black holes, non-Gaussian quantum states on Rydberg atom arrays, among other things. Find a link to my articles [here](/research/). 
+
+#Me! 
