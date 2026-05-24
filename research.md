@@ -20,6 +20,10 @@ Aiden Luke Daniel (2025)
 
 [Whiterose Website](https://etheses.whiterose.ac.uk/id/eprint/37219/1/AidenDaniel_PhDThesis.pdf)
 
+<p align="center">
+  <img src="/assets/papers/paper0.png" width="60%">
+</p>
+
 # Research Publications
 
 Below is a list of my published work. Or, if you're a fan of metrics and such (not the fun distance kind in topology or general relativity), here is my [Google Scholar page](https://scholar.google.com/citations?user=5yYBYkMAAAAJ&hl=en).
@@ -34,11 +38,19 @@ Below is a list of my published work. Or, if you're a fan of metrics and such (n
   
   [arXiv](https://arxiv.org/abs/2512.23794)
 
+  <p align="center">
+  <img src="/assets/papers/paper6.png" width="80%">
+  </p>
+
 - **Quantum teleportation between simulated binary black holes**
 
   Aiden Daniel, Tanmay Bhore, Jiannis K Pachos, Chang Liu, & Andrew Hallam (2025)
   
   [arXiv](https://arxiv.org/abs/2503.10761)
+
+  <p align="center">
+  <img src="/assets/papers/paper5.png" width="50%">
+  </p>
 
 - **Optimally scrambling chiral spin-chain with effective black hole geometry**
 
@@ -46,11 +58,19 @@ Below is a list of my published work. Or, if you're a fan of metrics and such (n
   
   [Scientific Reports](https://www.nature.com/articles/s41598-025-92760-9)
 
+  <p align="center">
+  <img src="/assets/papers/paper4.png" width="40%">
+  </p>
+
 - **Persistent Non-Gaussian Correlations in Out-of-Equilibrium Rydberg Atom Arrays**
 
   Aydin Deger, Aiden Daniel, Zlatko Papić, & Jiannis K Pachos (2023)
   
   [PRX Quantum](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.4.040339)
+
+  <p align="center">
+  <img src="/assets/papers/paper3.png" width="50%">
+  </p>
 
 - **Bridging quantum criticality via many-body scarring**
 
@@ -58,10 +78,18 @@ Below is a list of my published work. Or, if you're a fan of metrics and such (n
   
   [Physical Review B](https://journals.aps.org/prb/pdf/10.1103/PhysRevB.107.235108)
 
+  <p align="center">
+  <img src="/assets/papers/paper2.png" width="90%">
+  </p>)
+
 - **Hypergrid subgraphs and the origin of scarred quantum walks in many-body Hilbert space**
 
   Jean-Yves Desaules, Kieran Bull, Aiden Daniel, & Zlatko Papić (2022)
     
   [Physical Review B](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.105.245137)
+
+  <p align="center">
+  <img src="/assets/papers/paper1.png" width="50%">
+  </p>
 
 ---
