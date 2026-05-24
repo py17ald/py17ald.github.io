@@ -1,9 +1,8 @@
 ---
 layout: page
 permalink: /cv/
+title: Curriculum Vitae
 ---
-
-# Curriculum Vitae
 
 You can download my CVs below.
 
