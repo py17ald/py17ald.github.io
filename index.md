@@ -15,7 +15,7 @@ I think it's difficult to summarise any human being in a select few words, but i
 - Cat lover (self explanitory)
 - Worldbuilder, data analyst, and Python and C++ developer
 - Frequent Traveller (Norway, Sweden, USA, Japan)
-- Voice actor (we all have that one far-fetched dream)
+- Voice actor (we all have that one far-fetched hobby)
 
 ## Projects
 
