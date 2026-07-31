@@ -30,7 +30,7 @@ I am particularly interested in quantum thermalisation and quantum chaos. Other 
 
 ![Profile Picture](/assets/me.png)
 
-Here's a few pictures of me in Norway, at my graduation, and in Japan - courtesy of my wonderful partner (for I am undoubtably a shoddy photographer). Psychologically, apparently, this will help you feel like you know me better.
+Here's a few pictures of me in Norway, at my graduation, and in Japan - courtesy of my wonderful partner (for I am undoubtedly a shoddy photographer). Psychologically, apparently, this will help you feel like you know me better.
 
 Also, my apologies to the people in the background, in the _extremely_ unlikely event you ever see this. Do you ever think about how many photos we might be in the background of? We could be on someone's fireplace.
 
